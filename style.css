@@ -1,7 +1,8 @@
+
 body{
-background: black;
+background-color: black;
 }
-#menu{
-  font-color: white;
-  padding: 1;
+.menu{
+  color: white;
+  padding: 0;
 }  
