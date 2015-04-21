@@ -8,9 +8,6 @@ background: #000000;
   text-decoration: none;
   display: inline-block;
 }
-a{
-text-decoration: none;  
-}
 /* unvisited link */
 a:link {
     color: #FFFFFF;
@@ -34,6 +31,7 @@ p{
 color: #FFFFFF;  
 font-size: 20px;
 }
-ul{
+li{
 display: inline-block;  
+text-decoration: none;  
 }
