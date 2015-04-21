@@ -2,7 +2,12 @@
 body{
 background: #000000;
 }
-.menu{
-  color: white;
+.a{
+  color: #FFFFFF;
   padding: 0;
 }  
+p{
+margin-top: 10px;
+color: #FFFFFF;  
+font-size: 14px;
+}
