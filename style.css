@@ -1,13 +1,15 @@
 
 body{
+margin-top: 10px;
 background: #000000;
 }
-.a{
+#menu{
   color: #FFFFFF;
   padding: 0;
+  text-decoration: none;
+  display: inline-block;
 }  
 p{
-margin-top: 10px;
 color: #FFFFFF;  
-font-size: 14px;
+font-size: 20px;
 }
