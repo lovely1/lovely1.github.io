@@ -8,6 +8,9 @@ background: #000000;
   text-decoration: none;
   display: inline-block;
 }
+a{
+text-decoration: none;  
+}
 /* unvisited link */
 a:link {
     color: #FFFFFF;
@@ -30,4 +33,7 @@ a:active {
 p{
 color: #FFFFFF;  
 font-size: 20px;
+}
+ul{
+display: inline-block;  
 }
