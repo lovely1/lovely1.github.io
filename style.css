@@ -1,14 +1,8 @@
 
 body{
 margin-top: 100px;
-margin-left: 50px;
 background: #000000;
 font-family:Verdana;
-}
-.menu{
-  padding: 0;
-  text-decoration: none;
-  display: inline-block;
 }
 /* unvisited link */
 a:link {
@@ -38,5 +32,6 @@ line-height: 1.5;
 margin: 100px 50px;
 }
 li{
-display: inline-block;  
+display: inline-block;
+margin-left: 50px;
 }
