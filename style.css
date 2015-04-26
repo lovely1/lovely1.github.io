@@ -13,7 +13,9 @@ word-spacing: 30px;
 /*Navigation*/
 li{
 display: inline-block;
-
+}
+li.active{
+    opacity: 0.5;
 }
 /*Paragraph*/
 p{
