@@ -1,4 +1,4 @@
-/* unvisited link */
+/* body */
 body{
 margin-top: 100px;
 background: #000000;
@@ -6,7 +6,7 @@ font-family:Verdana;
 }
 /* menu */
 .menu{
-padding: 0.5cm 3cm;
+padding: 0.1cm 3cm;
 /*margin: 50px;*/
 font-size: 16px;
 }
