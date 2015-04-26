@@ -6,7 +6,7 @@ font-family:Verdana;
 }
 /* menu */
 .menu{
-padding: 0.1cm 3cm;
+padding: 2cm;
 /*margin: 50px;*/
 font-size: 16px;
 }
@@ -22,7 +22,7 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-    color: #FFF8DC;
+    color: #00CED1;
 }
 
 /* selected link */
