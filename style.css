@@ -14,9 +14,6 @@ word-spacing: 30px;
 li{
 display: inline-block;
 }
-li.active{
-    opacity: 0.2;
-}
 /*Paragraph*/
 p{
 color: #FFFFFF;  
