@@ -8,11 +8,12 @@ font-family:Verdana;
 .menu{
 padding: 2cm;
 font-size: 16px;
+word-spacing: 30px;
 }
 /*Navigation*/
 li{
 display: inline-block;
-word-spacing: 30px;
+
 }
 /*Paragraph*/
 p{
