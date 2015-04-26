@@ -15,7 +15,7 @@ li{
 display: inline-block;
 }
 li.active{
-    opacity: 0.5;
+    opacity: 0.2;
 }
 /*Paragraph*/
 p{
